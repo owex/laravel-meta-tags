@@ -1,5 +1,5 @@
 {
-  "name": "torann/laravel-meta-tags",
+  "name": "devools/laravel-meta-tags",
   "keywords": ["meta tags", "meta", "tags", "head", "laravel"],
   "description": "A package to manage Header Meta Tags",
   "license": "MIT",
@@ -11,6 +11,10 @@
     {
       "name": "Daniel Stainback",
       "email": "daniel@lyften.com"
+    },
+    {
+      "name": "Owen Rhodes",
+      "email": "123owen@gmail.com"
     }
   ],
   "require": {

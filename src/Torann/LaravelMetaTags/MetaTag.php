@@ -69,6 +69,7 @@ class MetaTag
         // Set defaults
         $this->set('title', $this->config['title']);
         $this->set('url', $this->request->url());
+        $this->set('robots', $this->config['robots']);
 
         // Set default locale
         $this->defaultLocale = $defaultLocale;
