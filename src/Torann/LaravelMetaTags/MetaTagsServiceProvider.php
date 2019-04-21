@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelMetaTags;
+namespace Devools\LaravelMetaTags;
 
 use Illuminate\Support\ServiceProvider;
 

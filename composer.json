@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Torann\\LaravelMetaTags\\": "src/Torann/LaravelMetaTags/"
+      "Torann\\LaravelMetaTags\\": "src/Devools/LaravelMetaTags/"
     }
   }
 }
