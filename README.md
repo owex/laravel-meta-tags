@@ -1,20 +1,14 @@
 # Laravel Meta Tags
 
-[![Latest Stable Version](https://poser.pugx.org/torann/laravel-meta-tags/v/stable.png)](https://packagist.org/packages/torann/laravel-meta-tags) [![Total Downloads](https://poser.pugx.org/torann/laravel-meta-tags/downloads.png)](https://packagist.org/packages/torann/laravel-meta-tags)
-
-With this package you can manage header Meta Tags from Laravel controllers.
-
-----------
-
 ## Installation
 
-- [Laravel MetaTags on Packagist](https://packagist.org/packages/torann/laravel-meta-tags)
-- [Laravel MetaTags on GitHub](https://github.com/Torann/laravel-meta-tags)
+- [Laravel MetaTags on Packagist](https://packagist.org/packages/devools/laravel-meta-tags)
+- [Laravel MetaTags on GitHub](https://github.com/owex/laravel-meta-tags)
 
 From the command line run
 
 ```
-$ composer require torann/laravel-meta-tags
+$ composer require devools/laravel-meta-tags
 ```
 
 Once Meta Tags is installed you need to register the service provider with the application. Open up `config/app.php` and find the `providers` key.
