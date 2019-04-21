@@ -1,5 +1,11 @@
 # Laravel Meta Tags
 
+[![Latest Stable Version](https://poser.pugx.org/owex/laravel-meta-tags/v/stable.png)](https://packagist.org/packages/owex/laravel-meta-tags) [![Total Downloads](https://poser.pugx.org/owex/laravel-meta-tags/downloads.png)](https://packagist.org/packages/owex/laravel-meta-tags)
+
+With this package you can manage header Meta Tags from Laravel controllers.
+
+----------
+
 ## Installation
 
 - [Laravel MetaTags on Packagist](https://packagist.org/packages/devools/laravel-meta-tags)
